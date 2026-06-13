@@ -35,12 +35,12 @@ And then for PsychV there will be a file in here that acts as the wiki for here 
 
 ## Credits:
 
-- Maki - Main Programmer and Head of PsychV Engine.
+- Maki - Main Programmer and Head of PsychV
 
 # Features
 
 The features are the same as Psych Engine but there are the following changes:
 
-None lol
+- None lol
 
 #### PsychV Engine by Maki, Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
